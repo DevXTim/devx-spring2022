@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83187aaf-bb6e-4910-ac3b-08bd648ba8b7" name="Changes" comment="" />
+    <list default="true" id="83187aaf-bb6e-4910-ac3b-08bd648ba8b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/automation/runners/SmokeRunnerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/pages/AddVacancyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/pages/AddVacancyPage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,13 +33,14 @@
   </component>
   <component name="ProjectId" id="2CYCdAyKOiUxR7AQQx49HvZQAcI" />
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SelfEmploymentTool" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -40,23 +48,6 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG.AddVacancyTest.verifyUserCanDeleteVacancy">
-    <configuration name="AddVacancyTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGAutomationFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.automation.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.automation.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.AddVacancyTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="AddVacancyTest.verifyUserCanAddVacancy" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGAutomationFramework" />
       <extension name="coverage">
@@ -93,30 +84,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogoutTest.verifyUserCanLogout" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGAutomationFramework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.automation.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.automation.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.automation.tests.LogoutTest" />
-      <option name="METHOD_NAME" value="verifyUserCanLogout" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.AddVacancyTest.verifyUserCanDeleteVacancy" />
-        <item itemvalue="TestNG.AddVacancyTest" />
         <item itemvalue="TestNG.AddVacancyTest.verifyUserCanAddVacancy" />
-        <item itemvalue="TestNG.LogoutTest.verifyUserCanLogout" />
       </list>
     </recent_temporary>
   </component>

@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="TestNGAutomationFramework" />
+        <module name="devx-spring2022-testng-framework" />
       </profile>
     </annotationProcessing>
   </component>
